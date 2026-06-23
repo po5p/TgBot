@@ -4,3 +4,4 @@ https://akonit.tech/sub/a0cc22c1-312b-47a1-99bb-bb62fd39df0e|AkonitVPN
 https://sub.cvedcvpn.ru/e-LF_rZTKbPzyANj|garelmakrel
 https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/1.txt|90
 https://mawtunnel.onrender.com/sub/WpqtBEilhthDB7tedo|ЯЕбланVPN
+https://github.com/lsncococososo-rgb/GRN_VPN/raw/refs/heads/main/config.txt|GRN_VPN
