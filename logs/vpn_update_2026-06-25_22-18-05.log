@@ -1,0 +1,121 @@
+[22:18:05] ==============================================
+[22:18:05] ЗАПУСК ОБНОВЛЕНИЯ VPN
+[22:18:05] ==============================================
+[22:18:05] Дата: 25.06.2026 22:18:05
+[22:18:05] GitHub: po5p/TgBot
+[22:18:05] 
+[22:18:05] ----------------------------------------------
+[22:18:05] ШАГ 1: Получение списка подписок
+[22:18:06] ----------------------------------------------
+[22:18:06] Статус: 200 (УСПЕШНО), размер: 731 байт
+[22:18:06] Содержимое:
+[22:18:06]   • https://yax.nenadoblokirowatgnidda.ru/exec?url=http%3A%2F%2F77.110.104.181%3A5002%2Fsub%2FVGdydXNzaWEsMTc4MTc4OTk1Mw20zr9u72oH|Vpn
+[22:18:06]   • https://sub.smygo.ru/api/sub/rp6VZU5x1KoWqmHe|VPN
+[22:18:06]   • https://akonit.tech/sub/a0cc22c1-312b-47a1-99bb-bb62fd39df0e|AkonitVPN
+[22:18:06]   • https://sub.cvedcvpn.ru/e-LF_rZTKbPzyANj|garelmakrel
+[22:18:06]   • https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/1.txt|90
+[22:18:06]   • https://mawtunnel.onrender.com/sub/WpqtBEilhthDB7tedo|ЯЕбланVPN
+[22:18:06]   • https://github.com/lsncococososo-rgb/GRN_VPN/raw/refs/heads/main/config.txt|GRN_VPN
+[22:18:06]   • https://31.76.240.234:2096/sub/qrv3n2dptx2n7xdn|Yowet
+[22:18:06]   • https://panel.haizvpn.pw/api/sub/NbU-R-3HMUwERtwQ|Haizvpn
+[22:18:06]   • https://vless-config.vadimakimov2009.workers.dev/?user=5739816977|nn
+[22:18:07] 
+[22:18:07] ----------------------------------------------
+[22:18:07] ШАГ 2: Клонирование репозитория
+[22:18:07] ----------------------------------------------
+[22:18:08] Статус: УСПЕШНО
+[22:18:08] 
+[22:18:08] ----------------------------------------------
+[22:18:08] ШАГ 3: Обработка подписок
+[22:18:08] ----------------------------------------------
+[22:18:08] 
+[22:18:08] Подписка #1: Vpn
+[22:18:08]   Файл: 8cbda047_Subscription.txt
+[22:18:09]   Загрузка: ОШИБКА HTTP 502
+[22:18:09]   Формат: Base64 → vless
+[22:18:09]   Конфигов: VL=0 VM=0 TR=0 SS=0 (всего: 0)
+[22:18:09] 
+[22:18:09] Подписка #2: VPN
+[22:18:09]   Файл: 03a7dba1_Subscription.txt
+[22:18:10]   Загрузка: ОШИБКА HTTP 404
+[22:18:10]   Формат: JSON
+[22:18:10]   Конфигов (JSON): 3
+[22:18:10] 
+[22:18:10] Подписка #3: AkonitVPN
+[22:18:10]   Файл: 1c89ecb2_Subscription.txt
+[22:18:11]   Загрузка: ОШИБКА HTTP 404
+[22:18:11]   Формат: JSON
+[22:18:11]   Конфигов (JSON): 1
+[22:18:11] 
+[22:18:11] Подписка #4: garelmakrel
+[22:18:11]   Файл: 77ae023c_Subscription.txt
+[22:18:12]   Загрузка: УСПЕШНО (1947 байт)
+[22:18:12]   Формат: JSON
+[22:18:12]   Конфигов (JSON): 2
+[22:18:12] 
+[22:18:12] Подписка #5: 90
+[22:18:12]   Файл: dc763289_Subscription.txt
+[22:18:13]   Загрузка: УСПЕШНО (36497 байт)
+[22:18:13]   Формат: готовые vless/заголовки
+[22:18:13]   Конфигов: 258
+[22:18:13] 
+[22:18:13] Подписка #6: ЯЕбланVPN
+[22:18:13]   Файл: 12ad9a86_Subscription.txt
+[22:18:15]   Загрузка: УСПЕШНО (38973 байт)
+[22:18:15]   Формат: Base64 → vless
+[22:18:37]   Конфигов: VL=0 VM=0 TR=0 SS=0 (всего: 0)
+[22:18:38] 
+[22:18:38] Подписка #7: GRN_VPN
+[22:18:38]   Файл: e33835c2_Subscription.txt
+[22:18:39]   Загрузка: УСПЕШНО (2416 байт)
+[22:18:39]   Формат: готовые vless/заголовки
+[22:18:39]   Конфигов: 14
+[22:18:40] 
+[22:18:40] Подписка #8: Yowet
+[22:18:40]   Файл: 7644db88_Subscription.txt
+[22:18:40]   Загрузка: УСПЕШНО (12460 байт)
+[22:18:40]   Формат: Base64 → vless
+[22:18:40]   Конфигов: VL=4 VM=0 TR=0 SS=8 (всего: 12)
+[22:18:41] 
+[22:18:41] Подписка #9: Haizvpn
+[22:18:41]   Файл: e546cf1e_Subscription.txt
+[22:18:41]   Загрузка: УСПЕШНО (985 байт)
+[22:18:41]   ⚠ Заглушка — оставляю старую копию
+[22:18:41] 
+[22:18:41] Подписка #10: nn
+[22:18:42]   Файл: 3b325403_Subscription.txt
+[22:18:42]   Загрузка: УСПЕШНО (6073 байт)
+[22:18:42]   Формат: JSON
+[22:18:42]   Конфигов (JSON): 7
+[22:18:42] 
+[22:18:42] ----------------------------------------------
+[22:18:43] ШАГ 4: Сводный файл
+[22:18:43] ----------------------------------------------
+[22:18:43] Ссылки в GotovVpn.txt:
+[22:18:43]   • https://raw.githubusercontent.com/po5p/TgBot/main/8cbda047_Subscription.txt
+[22:18:43]   • https://raw.githubusercontent.com/po5p/TgBot/main/03a7dba1_Subscription.txt
+[22:18:43]   • https://raw.githubusercontent.com/po5p/TgBot/main/1c89ecb2_Subscription.txt
+[22:18:43]   • https://raw.githubusercontent.com/po5p/TgBot/main/77ae023c_Subscription.txt
+[22:18:43]   • https://raw.githubusercontent.com/po5p/TgBot/main/dc763289_Subscription.txt
+[22:18:43]   • https://raw.githubusercontent.com/po5p/TgBot/main/12ad9a86_Subscription.txt
+[22:18:43]   • https://raw.githubusercontent.com/po5p/TgBot/main/e33835c2_Subscription.txt
+[22:18:43]   • https://raw.githubusercontent.com/po5p/TgBot/main/7644db88_Subscription.txt
+[22:18:43]   • https://raw.githubusercontent.com/po5p/TgBot/main/e546cf1e_Subscription.txt
+[22:18:43]   • https://raw.githubusercontent.com/po5p/TgBot/main/3b325403_Subscription.txt
+[22:18:43] 
+[22:18:43] ----------------------------------------------
+[22:18:43] ШАГ 5: Отправка в GitHub
+[22:18:43] ----------------------------------------------
+[22:18:45] Результат: УСПЕШНО
+[22:18:45] 
+[22:18:45] ==============================================
+[22:18:45] ИТОГИ
+[22:18:45] ==============================================
+[22:18:45] Обработано: 9 | Пропущено: 1
+[22:18:45]   VLESS:  4
+[22:18:45]   SS:     8
+[22:18:45]   JSON:   13
+[22:18:45]   ─────────────────
+[22:18:45]   ВСЕГО:  25
+[22:18:45] Сводный файл: https://raw.githubusercontent.com/po5p/TgBot/main/GotovVpn.txt
+[22:18:45] ==============================================
