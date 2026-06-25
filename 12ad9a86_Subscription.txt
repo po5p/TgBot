@@ -1,7 +1,0 @@
-#profile-title: Курочка_Абзябзяба_VPN
-#profile-update-interval: 2
-#support-url: https://t.me/freevpnconfigh
-#profile-web-page-url: https://t.me/freevpnconfigh
-#announce: Бесплатные подписки и конфигурации @freevpnconfigh
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
