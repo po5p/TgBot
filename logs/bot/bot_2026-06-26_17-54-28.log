@@ -1,0 +1,4 @@
+
+[2026-06-26 17:56:57] ОШИБКА:
+Ошибка в handle: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 616
+==================================================
