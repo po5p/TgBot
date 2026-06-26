@@ -2,3 +2,11 @@
 [2026-06-26 18:45:38] ОШИБКА:
 Ошибка в handle: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 167
 ==================================================
+
+[2026-06-26 18:45:41] ОШИБКА:
+Ошибка в handle: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 167
+==================================================
+
+[2026-06-26 18:49:22] ОШИБКА:
+Ошибка в handle: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 167
+==================================================
