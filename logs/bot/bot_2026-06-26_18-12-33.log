@@ -1,0 +1,19 @@
+
+[2026-06-26 18:34:17] ОШИБКА:
+Ошибка добавления подписки: Command '
+TEMP=$(mktemp)
+curl -s -L -o "$TEMP" -A "Happ/3.0 (Android; Mobile)" -H "X-HWID: CB522960-E2A9-7A19-12CB-FD12FEC71E19" "https://subs.crabby.app/b8cd8e0b2467fd0f45922774d8b68f21b9c76b348d5af80db205a4aa5257efe2"
+FIRST=$(head -c 1 "$TEMP")
+if [ "$FIRST" = "[" ] || [ "$FIRST" = "{" ]; then
+  echo "JSON|$(jq 'length' "$TEMP" 2>/dev/null || echo 1)"
+else
+  VL=$(grep -c 'vless://' "$TEMP" 2>/dev/null || echo 0)
+  VM=$(grep -c 'vmess://' "$TEMP" 2>/dev/null || echo 0)
+  TR=$(grep -c 'trojan://' "$TEMP" 2>/dev/null || echo 0)
+  SS=$(grep -c 'ss://' "$TEMP" 2>/dev/null || echo 0)
+  TOTAL=$((VL+VM+TR+SS))
+  [ "$TOTAL" -eq 0 ] && { cat "$TEMP" | base64 -d > "$TEMP.dec" 2>/dev/null; VL=$(grep -c 'vless://' "$TEMP.dec" 2>/dev/null || echo 0); VM=$(grep -c 'vmess://' "$TEMP.dec" 2>/dev/null || echo 0); TR=$(grep -c 'trojan://' "$TEMP.dec" 2>/dev/null || echo 0); SS=$(grep -c 'ss://' "$TEMP.dec" 2>/dev/null || echo 0); echo "Base64|$VL $VM $TR $SS"; } || echo "VLESS|$VL $VM $TR $SS"
+fi
+rm -f "$TEMP" "$TEMP.dec"
+' timed out after 30 seconds
+==================================================
