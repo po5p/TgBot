@@ -14,3 +14,7 @@
 [2026-06-27 13:41:09] ОШИБКА:
 Ошибка в handle: name 'check_subscription_and_access' is not defined
 ==================================================
+
+[2026-06-27 14:40:39] ОШИБКА:
+Критическая ошибка в основном цикле: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+==================================================
