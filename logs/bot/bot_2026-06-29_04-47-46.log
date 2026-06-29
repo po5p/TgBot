@@ -1,0 +1,4 @@
+
+[2026-06-29 08:21:22] ОШИБКА:
+Критическая ошибка в основном цикле: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+==================================================
