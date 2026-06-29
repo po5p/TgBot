@@ -1,10 +1,5 @@
-https://raw.githubusercontent.com/po5p/TgBot/main/e33835c2_Subscription.txt
-https://raw.githubusercontent.com/po5p/TgBot/main/80edf5ff_Subscription.txt
-https://raw.githubusercontent.com/po5p/TgBot/main/017b9265_Subscription.txt
-https://raw.githubusercontent.com/po5p/TgBot/main/ea85de74_Subscription.txt
-https://raw.githubusercontent.com/po5p/TgBot/main/2247dd1d_Subscription.txt
-https://raw.githubusercontent.com/po5p/TgBot/main/ac4e9d53_Subscription.txt
-https://raw.githubusercontent.com/po5p/TgBot/main/5942b582_Subscription.txt
-https://raw.githubusercontent.com/po5p/TgBot/main/2558949b_Subscription.txt
-https://raw.githubusercontent.com/po5p/TgBot/main/5d334869_Subscription.txt
-https://raw.githubusercontent.com/po5p/TgBot/main/40931a7d_Subscription.txt
+https://raw.githubusercontent.com/po5p/TgBot/main/users/5739816977/2247dd1d_Subscription.txt
+https://raw.githubusercontent.com/po5p/TgBot/main/users/5739816977/ac4e9d53_Subscription.txt
+https://raw.githubusercontent.com/po5p/TgBot/main/users/5739816977/9bea4c44_Subscription.txt
+https://raw.githubusercontent.com/po5p/TgBot/main/users/7550216948/5942b582_Subscription.txt
+https://raw.githubusercontent.com/po5p/TgBot/main/users/7550216948/5d334869_Subscription.txt
