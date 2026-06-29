@@ -1,10 +1,6 @@
-https://github.com/lsncococososo-rgb/GRN_VPN/raw/refs/heads/main/config.txt|GRN_VPN
-https://subs.crabby.app/b8cd8e0b2467fd0f45922774d8b68f21b9c76b348d5af80db205a4aa5257efe2|В
-https://tinyurl.com/jm4nyfxp|CVEDC_VPN_||_FREE_ПОДПИСК
-https://happ.dska.su/https://vless-config.vadimakimov2009.workers.dev/vpn-config?user=5739816977|AstraVPN-PRO
-https://vpnsubs.site/api/sub/78-kh52vMQyWHcf6|VpnBezLagov
-https://vpnsubs.site/api/sub/WmpDVF2fhx495v_8|vpn
-https://sub.lbrts.org/hz9UvFDVehXtGB-m|Абзябзяблик_ВПН
-https://sub.auravpn.cc/k6vPRn1n0sDBaBoC|Дрыга_ВПН
-https://12w.uk/4bjgny|ВВпн
-https://subscription.kotvpn.net/1HbPV4HLcaPW8oM3|Okak
+5739816977|https://vless-config.vadimakimov2009.workers.dev/vpn-config?user=5739816977|AstraVPN-PRO
+5739816977|https://vpnsubs.site/api/sub/78-kh52vMQyWHcf6|VpnBezLagov
+5739816977|https://vpnsubs.site/api/sub/WmpDVF2fhx495v_8|vpn
+7550216948|https://12w.uk/4bjgny|ВВпн
+7550216948|https://sub.lbrts.org/hz9UvFDVehXtGB-m|Абзябзяблик_ВПН
+8428348407|https://31.76.240.234:2096/sub/qrv3n2dptx2n7xdn|Yowet
