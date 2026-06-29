@@ -1,5 +1,3 @@
-https://raw.githubusercontent.com/po5p/TgBot/main/users/5739816977/2247dd1d_Subscription.txt
-https://raw.githubusercontent.com/po5p/TgBot/main/users/5739816977/ac4e9d53_Subscription.txt
 https://raw.githubusercontent.com/po5p/TgBot/main/users/5739816977/9bea4c44_Subscription.txt
-https://raw.githubusercontent.com/po5p/TgBot/main/users/7550216948/5942b582_Subscription.txt
 https://raw.githubusercontent.com/po5p/TgBot/main/users/7550216948/5d334869_Subscription.txt
+https://raw.githubusercontent.com/po5p/TgBot/main/users/7550216948/5942b582_Subscription.txt
