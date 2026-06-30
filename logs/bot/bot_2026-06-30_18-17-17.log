@@ -2,3 +2,30 @@
 [2026-06-30 18:17:32] ОШИБКА:
 Критическая ошибка в основном цикле: 'Message' object has no attribute 'poll'
 ==================================================
+
+[2026-06-30 18:17:36] ОШИБКА:
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tgbot.py", line 1060, in <module>
+    bot.polling(none_stop=True)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telebot/__init__.py", line 1224, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                            logger_level=logger_level, allowed_updates=allowed_updates)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telebot/__init__.py", line 1299, in __threaded_polling
+    raise e
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telebot/__init__.py", line 1261, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telebot/util.py", line 155, in raise_exceptions
+    raise self.exception_info
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telebot/util.py", line 98, in run
+    task(*args, **kwargs)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/tgbot.py", line 557, in broadcast_step2
+    elif msg.poll:
+         ^^^^^^^^
+AttributeError: 'Message' object has no attribute 'poll'
+
+==================================================
